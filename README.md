@@ -1,4 +1,4 @@
-### Hi there! 👋🏽
+### Hello! 👋🏽
 - 👩🏽‍🎓 I am a freshman pursuing a double major in Computer Science and Information Science with a minor in Entrepreneurship at the University of North Carolina at Chapel Hill.
 - 👩🏽‍💻 With a strong passion for technology, I am particularly interested in computer science, cyber security, and cloud computing.
 - 🎭 In my free time, I enjoy exploring the world of theatre, music, and literature and keeping up with the latest technological advancements.
