@@ -1,21 +1,19 @@
-### Hello! 👋🏽
-- 👩🏽‍🎓 I am a freshman pursuing a double major in Computer Science and Information Science with a minor in Entrepreneurship at the University of North Carolina at Chapel Hill.
-- 👩🏽‍💻 With a strong passion for technology, I am particularly interested in computer science, cyber security, and cloud computing.
-- 🎭 In my free time, I enjoy exploring the world of theatre, music, and literature and keeping up with the latest technological advancements.
-- 👩🏽‍🏫 I am committed to inspiring the next generation of STEM professionals, regardless of their background. 
-- 📚 To that end, my book, ‘Codi Can Code and You Can Too,’ educates children about available resources and encourages them to pursue a STEM career.
-- ⭐️ My ultimate goal is to create a more diverse and inclusive STEM industry.
-<!--
-**gabrielleestewart/gabrielleestewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gabrielle's LinkedIn][g-linkedin-shield]][gabrielle-linkedin-url]
+<!-- [![Vistors][vistors-badge][vistors-url]] -->
+------
 
-Here are some ideas to get you started:
+### 👩🏽‍🎓 I am a freshman at the University of North Carolina at Chapel Hill pursuing a double major in computer science and information science with a minor in entrepreneurship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏽‍💻 With a strong passion for technology, I am particularly interested in computer science, cyber security, and cloud computing.
+
+### 🎭 In my free time, I enjoy exploring the world of theatre, music, and literature and keeping up with the latest technological advancements.
+
+### 👩🏽‍🏫 I am committed to inspiring the next generation of STEM professionals, regardless of their background. 
+
+### 📚 To that end, my book, ‘Codi Can Code and You Can Too,’ educates children about available resources and encourages them to pursue a STEM career.
+
+### ⭐️ My ultimate goal is to create a more diverse and inclusive STEM industry.
+
+[g-linkedin-shield]: https://img.shields.io/badge/linkedin-gabrielle-white?style=for-the-badge&logo=linkedin&labelColor=%230A66C2
+[gabrielle-linkedin-url]: https://linkedin.com/in/gabrielleestewart
+[vistors-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgabrielleestewart%2Fgabrielleestewart&label=Visitors&countColor=%23f47373
