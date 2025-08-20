@@ -2,7 +2,7 @@
 <!-- [![Vistors][vistors-badge][vistors-url]] -->
 ------
 
-### 👩🏽‍🎓 I am a sophomore at the University of North Carolina at Chapel Hill pursuing a double major in computer science and information science with a minor in entrepreneurship.
+### 👩🏽‍🎓 I am a junior at the University of North Carolina at Chapel Hill pursuing a double major in computer science and information science with a minor in entrepreneurship.
 
 ### 👩🏽‍💻 With a strong passion for technology, I am particularly interested in computer science, cyber security, and cloud computing.
 
