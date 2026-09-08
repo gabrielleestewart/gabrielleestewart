@@ -2,11 +2,11 @@
 <!-- [![Vistors][vistors-badge][vistors-url]] -->
 ------
 
-### 👩🏽‍🎓 I am a junior at the University of North Carolina at Chapel Hill pursuing a double major in computer science and information science with a minor in entrepreneurship.
+### 👩🏽‍🎓 I am a senior at the University of North Carolina at Chapel Hill pursuing a double major in computer science and information science with a minor in entrepreneurship.
 
-### 👩🏽‍💻 With a strong passion for technology, I am particularly interested in computer science, cyber security, and cloud computing.
+### 👩🏽‍💻 With a strong passion for technology, I am particularly interested in product management, computer science, consulting, and cloud computing.
 
-### 🎭 In my free time, I enjoy theatre, music, and literature and keeping up with the latest technological advancements.
+### 🎭 In my free time, I enjoy theatre, music, and literature, and keeping up with the latest technological advancements.
 
 ### 👩🏽‍🏫 I am committed to inspiring the next generation of STEM professionals, regardless of their background. 
 
